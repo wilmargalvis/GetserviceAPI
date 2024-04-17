@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Getservice\Getservice\obj\Debug\Getservice.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Getservice\Getservice\obj\Debug\Getservice.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Getservice\Getservice\bin\Debug\Getservice.exe.config
+C:\Users\USER\source\repos\Getservice\Getservice\bin\Debug\Getservice.exe
+C:\Users\USER\source\repos\Getservice\Getservice\bin\Debug\Getservice.pdb
+C:\Users\USER\source\repos\Getservice\Getservice\obj\Debug\Getservice.exe
+C:\Users\USER\source\repos\Getservice\Getservice\obj\Debug\Getservice.pdb
+C:\Proyectos\Consola.net\Getservice\Getservice\bin\Debug\Getservice.exe.config
+C:\Proyectos\Consola.net\Getservice\Getservice\bin\Debug\Getservice.exe
+C:\Proyectos\Consola.net\Getservice\Getservice\bin\Debug\Getservice.pdb
+C:\Proyectos\Consola.net\Getservice\Getservice\obj\Debug\Getservice.csproj.AssemblyReference.cache
+C:\Proyectos\Consola.net\Getservice\Getservice\obj\Debug\Getservice.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\Consola.net\Getservice\Getservice\obj\Debug\Getservice.csproj.CoreCompileInputs.cache
+C:\Proyectos\Consola.net\Getservice\Getservice\obj\Debug\Getservice.exe
+C:\Proyectos\Consola.net\Getservice\Getservice\obj\Debug\Getservice.pdb

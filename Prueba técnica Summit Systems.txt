@@ -1,0 +1,6 @@
+Summit Systems
+
+Obtener datos de un archivo de tipo csv
+https://raw.githubusercontent.com/EvanLi/Github-Ranking/master/Data/github-ranking-2022-02-26.csv
+
+Procesar los datos obtenidos
